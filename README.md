@@ -1,25 +1,14 @@
-# Aluraplus
 
-![Screenshot_15](https://user-images.githubusercontent.com/88012503/195717351-cd53e91c-b865-49dd-9a61-3d5843b1b4d6.png)
+<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
 
+<hr>
 
-Projeto site alura 
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
+<p align="center">Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        |Aluraplus
-| :label: Tecnologias |  html, css
-| :rocket: URL         | 
-| :My Linktree: |https://linktr.ee/Bruno_meireles
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+## Tecnologias
+* HTML
+* CSS
 
-![Screenshot_14](https://user-images.githubusercontent.com/88012503/195717307-0bd425d5-e64f-4960-a047-a2d412112787.png)
-
-
-
-
-Projeto alura feito com html e css, aprendendo usar gred
-
-![Screenshot_16](https://user-images.githubusercontent.com/88012503/195717503-2d56a5b6-634a-402c-a8f8-910f95b37ced.png)
-
-
+## Screenshots
+![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
